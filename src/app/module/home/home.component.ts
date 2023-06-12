@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { MenuOptions } from 'src/app/core/static/menu-options';
 
 @Component({
   selector: 'app-home',
@@ -6,5 +7,15 @@ import { Component } from '@angular/core';
   styleUrls: ['./home.component.scss']
 })
 export class HomeComponent {
+
+  title: string = 'Portifolio';
+  menu: any = MenuOptions;
+
+  constructor() {
+  }
+
+  ngOnInit(): void {
+    localStorage.clear();
+  }
 
 }
