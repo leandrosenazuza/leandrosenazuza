@@ -1,0 +1,8 @@
+<div class="mb-3">
+  <section class="navbar__notices mb-2" *ngFor="let item of notices">
+      <h2>{{ item?.title }}</h2>
+      <div class="navbar__notices__body">
+          <span [innerHTML]="item.notice"></span>
+      </div>
+  </section>
+</div>

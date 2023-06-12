@@ -1,0 +1,41 @@
+.navbar {
+  margin-top: 35px;
+  padding: 30px 10px 2px;
+  background-color: #afabab;
+  color: #0a0a0a;
+  cursor: pointer;
+
+  &__options {
+      margin-bottom: 30px;
+
+      a {
+          font-weight: bold;
+
+          &:hover {
+              transition: 0.2s;
+              color: #16F4D0;
+          }
+      }
+  }
+
+  &__notices {
+      padding-bottom: 10px;
+      margin-left: 5px;
+      border-radius: 15px 30px;
+
+      h2 {
+          font-size: 18px;
+          padding: 5px;
+          border-radius: 10px 30px 0px 0px;
+      }
+
+      &__body {
+          padding: 3px 10px;
+
+          span {
+              font-size: 14px;
+              color: #1b3182;
+          }
+      }
+  }
+}
