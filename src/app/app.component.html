@@ -3,7 +3,7 @@
 </div>
 <div [ngClass]="isHomePage ? 'content' : 'content page-full'">
   <section *ngIf="isHomePage" class="container__navbar">
-
+    <app-navbar></app-navbar>
   </section>
   <section class="container__router">
     <router-outlet></router-outlet>

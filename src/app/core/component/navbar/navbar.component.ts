@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavbarOptions } from '../../static/navbar-options';
-import { NoticeBoard } from '../../static/notive-board';
+import { NoticeBoard } from '../../static/notice-board';
 
 @Component({
   selector: 'app-navbar',
@@ -9,8 +9,6 @@ import { NoticeBoard } from '../../static/notive-board';
 })
 export class NavbarComponent {
 
-  options: any[] = NavbarOptions;
-  notices: any[] = NoticeBoard;
 
   constructor() {}
 

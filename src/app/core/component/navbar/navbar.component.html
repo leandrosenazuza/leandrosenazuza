@@ -1,8 +1,21 @@
-<div class="mb-3">
-  <section class="navbar__notices mb-2" *ngFor="let item of notices">
-      <h2>{{ item?.title }}</h2>
-      <div class="navbar__notices__body">
-          <span [innerHTML]="item.notice"></span>
-      </div>
-  </section>
-</div>
+<nav class="navbar navbar-expand-lg bg-primary">
+  <div>
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Sobre mim</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Portifólio</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Formação Acadêmica</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
