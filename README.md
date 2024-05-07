@@ -8,7 +8,7 @@
 <ul type="circle">
   <li> 🔭 Formado em engenharia, faço mestrado em Engenharia Elétrica. Trabalho com desenvovlvimento Java / Spring Boot.
   <li> 🌱 Travalho com Java, Java Sever Faces, Spring Boot, Docker, SQL, etc.
-  <li> 📫 Como me achar? Segue meu e-mail: leandrosenazuza@gmail.com e meu celular: +55 34 9-9238-3934 
+  <li> 📫 Como me achar? Segue meu e-mail: leandrosenazuza@gmail.com
  </ul>
 
 <div>
