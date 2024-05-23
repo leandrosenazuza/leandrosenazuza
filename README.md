@@ -17,7 +17,7 @@
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
                     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" width="40" alt="Spring">
                     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="40" width="40" alt="Angular">
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript">
+                    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" height="40" width="40" alt="TypeScript">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="40" alt="Python">
                     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL">
                     <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" height="40" width="40" alt="Oracle">
