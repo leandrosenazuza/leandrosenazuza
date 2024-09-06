@@ -9,7 +9,7 @@
         <tr>
             <td>
                 <h1>Hi! My name is <b>Leandro Sena Zuza</b>!</h1>
-                <p>I'm a Developer at Lampp-IT and pursuing my Master's degree in Electrical Engineering at Federal University of Uberlândia (UFU).</p>
+                <p>I'm a Developer at TQI and pursuing my Master's degree in Electrical Engineering at Federal University of Uberlândia (UFU).</p>
                 <p>Also looking for international opportunities!</p>
                 <p>I live in Brazil, in the city of Uberlândia, Minas Gerais province.</p>
                 <p>Always seeking new ways to challenge myself.</p>
