@@ -14,6 +14,7 @@
                 <p>I live in Brazil, in the city of Uberlândia (MG). But, sometimes, I'm in Curitiba (PR)</p>
                 <p>Always seeking new ways to challenge myself.</p>
                 <div>
+                     <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" alt="Dot-Net">
                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java">
                     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" height="40" width="40" alt="Spring">
                     <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" height="40" width="40" alt="Angular">
